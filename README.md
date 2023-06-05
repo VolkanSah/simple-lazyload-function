@@ -1,5 +1,4 @@
-# simple-lazyload-function
-slim and simple lazyload in javascript
+# simple slim lazyload function
 
 ```javascript
 <script>
